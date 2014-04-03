@@ -1,0 +1,3 @@
+[submodule "healfy"]
+	path = healfy
+	url = git@github.com:asimoov/healfy.git
